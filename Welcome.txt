@@ -9,5 +9,8 @@ chicken fry
 beans 
 carrot
 
+brinjal
+chilli
+
 
 Thank you!
